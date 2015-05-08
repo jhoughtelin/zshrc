@@ -13,4 +13,5 @@ export EDITOR='vim'
 # Aliases
 alias l="ls -alh"
 alias v="vim"
-alias g="grep"
+alias g="git"
+alias gr="grep"
